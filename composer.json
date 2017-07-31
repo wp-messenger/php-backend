@@ -1,0 +1,10 @@
+{
+    "name": "wp-messenger/php-backend",
+    "description": "PHP backend for WP Messenger.",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    },
+	"autoload": {
+		"classmap": ["api.php"]
+	}
+}
